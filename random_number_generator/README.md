@@ -9,6 +9,9 @@ Quantum computing has a stochastic nature. By using Hadamard gates, qubits can b
 
 <br> <!-- Espacio entre las imágenes -->
 
+Using 3 qubits and 3 clasical bits can be count form zero to seven in binary and tranform it in decimal
+
+<br>
 
   <p align="center">
   <img src="https://github.com/lestorres/Quantum-computing/blob/main/random_number_generator/quamtun_numbers_1.png"/>
